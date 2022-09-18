@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Haway (Healthy Way)
-description: Healthy App for Urban Comunity 
+description: Healthy App for Urban Community 
 img: assets/img/projects/haway/thumbnail.png
 importance: 1
 category: work

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: MARINE
-description: IoT Base Application for Minitoring in Beach Conservation Area
+description: IoT Base Application for Monitoring in Beach Conservation Area
 img: assets/img/projects/marine/marine_design.jpg
 importance: 1
 category: work
 ---
 
-MARINE stands for Mointoring Application for Conservation Area.
-The puprose of this project is simple, to help beach conservation officer to monitor the area with more detail data and efficient in effort.
+MARINE stands for Monitoring Application for Conservation Area.
+The purpose of this project is simple, to help beach conservation officer to monitor the area with more detail data and efficient in effort.
 They need to monitor sea water condition because coral reefs is highly sensitive, 
 when the condition of sea water drastically change they could made decision what action to take. 
 
@@ -38,5 +38,5 @@ Thanks to **Ministry of Higher Education and Technology Republic of Indonesia** 
     </div>
 </div>
 <div class="caption">
-    Beach conservation officer could monitor the condition of the area (video, pH, temperatur, salinity) via website.
+    Beach conservation officer could monitor the condition of the area (video, pH, temperature, salinity) via website.
 </div>
