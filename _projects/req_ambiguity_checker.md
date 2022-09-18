@@ -2,7 +2,7 @@
 layout: page
 title: Requirement Ambiguity Checker
 description: A Simple Tool to Detect Ambiguous Requirement-Sentences inside SRS (Software Requirements Specification) Document.
-img: assets/img/projects/marine/marine_design.jpg
+img: assets/img/projects/req_ambiguity_checker/result.PNG
 importance: 1
 category: work
 ---
