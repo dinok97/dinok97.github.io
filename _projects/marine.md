@@ -31,7 +31,7 @@ Thanks to **Ministry of Higher Education and Technology Republic of Indonesia** 
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/marine/marine_real_testing.jpg" title="marine real test" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/marine/marine_real_testing.jpeg" title="marine real test" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/marine/marine_web.png" title="marine web" class="img-fluid rounded z-depth-1" %}
